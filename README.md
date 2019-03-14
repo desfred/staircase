@@ -6,6 +6,4 @@ Feel free to use it for your own purposes if you like building staircases with F
 
 **Documention** can be found here: https://staircase.readthedocs.io (let us know if anything seems odd or unclear)
 
-Have fun! Best,
-
-Fred
+Have fun! Best, Fred
